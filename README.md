@@ -30,5 +30,14 @@ Mobile app frontend for Hirlyx Todo assignment.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/hirlyx-todo-frontend.git
-cd hirlyx-todo-frontend
+
+
+git clone https://github.com/Saveri23/todo-frontend.git
+cd todo-frontend
+npx react-native run-android
+# or
+npx react-native run-ios
+npm install
+# or
+yarn install
+
